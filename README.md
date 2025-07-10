@@ -19,13 +19,13 @@
 1. 克隆或下载项目到本地
 
 2. 创建并激活虚拟环境（推荐）
-#安装相同虚拟环境
+# 安装相同虚拟环境
 pip install -r requirements.txt
 # 创建虚拟环境
 python -m venv tf213_env
 
-# 激活虚拟环境（Windows命令提示符）
+# 激活虚拟环境（命令行）
 tf213_env\Scripts\activate.bat
 
-#在虚拟环境下启动应用程序
+# 在虚拟环境下启动应用程序
 python main.py
